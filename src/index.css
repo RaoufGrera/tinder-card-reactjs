@@ -17,7 +17,7 @@ body {
 }
 
 #root {
-  background: lightblue;
+  background: #fdd835;
   position: fixed;
   overflow: hidden;
   width: 100%;
